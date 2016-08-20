@@ -1,9 +1,15 @@
 [
  {
    "remote": "github",
-   "repository": "SlimRoms/android_device_oppo_common",
+   "repository": "CandyDevices/device_oppo_common",
    "target_path": "device/oppo/common",
-   "branch": "mm6.0"
+   "branch": "c6"
+ },
+ {
+   "remote": "github",
+   "repository": "CandyRoms/device_qcom_common",
+   "target_path": "device/qcom/common",
+   "branch": "c6"
  },
  {
    "remote": "github",
